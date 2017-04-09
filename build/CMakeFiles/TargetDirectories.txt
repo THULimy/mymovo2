@@ -1,0 +1,2 @@
+/home/limy/mono-vo2/build/CMakeFiles/getnd.dir
+/home/limy/mono-vo2/build/CMakeFiles/vo.dir
